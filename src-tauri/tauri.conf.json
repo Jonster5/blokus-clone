@@ -28,7 +28,7 @@
                 "icons/icon.icns",
                 "icons/icon.ico"
             ],
-            "identifier": "com.blokus.dev",
+            "identifier": "dev.tcfgames.blokus",
             "longDescription": "",
             "macOS": {
                 "entitlements": null,
